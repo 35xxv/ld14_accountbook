@@ -1,0 +1,18 @@
+body {
+    background: rgb(224,255,255);
+}
+
+.row p {
+    font-size: 1.2rem;
+    font-family: 'Tapestry', cursive;
+}
+
+.category {
+    font-size: 0.7rem !important;
+    font-family: 'Tapestry', cursive;
+}
+
+.btn-small {
+    font-size: 0.7rem;
+    font-family: 'Tapestry', cursive;
+}
